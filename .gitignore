@@ -1,0 +1,8 @@
+
+*.pyc
+*.mp4
+*.geojson
+*.txt
+webapp/data/graph1.html
+webapp/data/graph2.html
+map.html.html
